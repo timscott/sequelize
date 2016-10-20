@@ -68,7 +68,7 @@
     "git": "^0.1.5",
     "hints": "^1.1.0",
     "istanbul": "^0.4.5",
-    "jshint": "^2.9.3",
+    "jshint": "^2.9.4",
     "lcov-result-merger": "^1.2.0",
     "mocha": "^3.0.2",
     "mysql2": "^1.1.0",
