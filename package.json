@@ -45,7 +45,7 @@
     "generic-pool": "2.4.3",
     "inflection": "1.10.0",
     "lodash": "4.16.2",
-    "moment": "^2.13.0",
+    "moment": "^2.15.2",
     "moment-timezone": "^0.5.4",
     "node-uuid": "~1.4.4",
     "retry-as-promised": "^2.0.0",
